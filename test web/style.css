@@ -1,0 +1,48 @@
+p{
+    font-size: larger;
+    font-size: x-large;
+    font-variant: inherit;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:lightcoral; 
+}
+img{
+    border: solid;
+    border-color: black;
+    border: blanchedalmond;
+    border-top: crimson;
+    border-bottom: crimson;
+    size: 100px;
+    right: 120px;
+}
+a{
+    border-radius: 6px;
+    size: 160px;
+    right: 200mm;
+}
+nav{
+    background-color: cornflowerblue;
+    background-position: top;
+    background-size: 200px 20pt;
+    size: 130px;
+}
+body{
+    background-image: url(https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.michellefranclee.com%2Fsakura-blooms-in-indonesia-and-where-to-find-it%2F&psig=AOvVaw2mVAGAB-mNGGecKezqPGjy&ust=1634231501175000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNj87_Twx_MCFQAAAAAdAAAAABAP);
+    background-size: auto;
+    background-color: rgb(218, 201, 201);
+    margin-right: auto;
+    
+}
+button{
+    border-radius: 200px;
+    color: chocolate;
+    background-color: rgb(218, 201, 201);
+
+}
+h1{
+    size: 20pt;
+    right: 220px;
+    border-left: 120px;
+}
+.insta{
+    color: rgb(218, 201, 201);
+}
